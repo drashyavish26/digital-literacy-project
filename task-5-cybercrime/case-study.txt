@@ -1,0 +1,7 @@
+Cybercrime Case Study
+One common cybercrime is phishing, where attackers send fake emails or messages to trick users into sharing personal information.
+These messages often appear to come from trusted sources such as banks or organizations.
+For example, a student may receive an email claiming to be from a bank, asking them to update their account details through a link.
+If the student clicks the link and enters their information, the attacker can steal the data and misuse it.
+To prevent such cybercrimes, users should avoid clicking on suspicious links, verify the sender, and never share sensitive information online.
+Awareness and caution are the best ways to stay safe.
